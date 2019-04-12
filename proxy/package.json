@@ -1,0 +1,20 @@
+{
+  "name": "opentable_navbar-proxy",
+  "description": "OpenTable NavBar Proxy",
+  "author": "Liezel Manalo",
+  "engines": {
+    "node": ">=6.13.0"
+  },
+  "main": "server/index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "license": "UNLICENSED",
+  "repository": "https://github.com/hrla28-open-table-app/navbar-proxy",
+  "devDependencies": {},
+  "dependencies": {
+    "express": "^4.16.4",
+    "morgan": "^1.9.1",
+    "nodemon": "^1.18.10"
+  }
+}
