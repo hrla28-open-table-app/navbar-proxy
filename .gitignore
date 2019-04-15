@@ -24,3 +24,8 @@ coverage
 build/
 dist/
 
+# microservices
+description/
+navbar/
+reservation/
+reviews/
